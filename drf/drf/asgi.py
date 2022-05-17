@@ -1,5 +1,5 @@
 """
-ASGI config for drf project.
+ASGI config for drf drf.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
