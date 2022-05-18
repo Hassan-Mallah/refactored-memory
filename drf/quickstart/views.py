@@ -1,6 +1,6 @@
 from django.contrib.auth.models import User, Group
 from rest_framework import viewsets, permissions
-from serializers import UserSerializer, GroupSerializer
+from .serializers import UserSerializer, GroupSerializer
 
 
 # Rather than write multiple views we're grouping together all the common behavior into classes called ViewSets.
